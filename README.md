@@ -1,1 +1,1 @@
-<img width="1408" height="736" alt="persistkit-logo-white" src="https://github.com/user-attachments/assets/6557c2d0-4b22-4335-8392-0ed01c034686" />
+<img width="1408" height="736" alt="persistkat-logo-white" src="https://github.com/user-attachments/assets/3d875fa2-5656-4a00-a5f9-35b232329eca" />
